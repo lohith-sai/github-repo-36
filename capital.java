@@ -1,3 +1,5 @@
 capital
-info
+
+staic ip address 
+root
 current
